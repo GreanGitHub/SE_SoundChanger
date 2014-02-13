@@ -71,12 +71,7 @@ public class Main extends Activity {
 	
 	public void test(){
 		
-		sound.stop();
-		hand.removeCallbacks(Task);
-		Running = false;
-		double a = 0;
-		updateDisplay(a);
-		updateDisAmp(a);
+	
 		//test methode by ball while crate repo
 	}
 	

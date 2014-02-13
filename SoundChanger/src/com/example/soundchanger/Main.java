@@ -70,8 +70,8 @@ public class Main extends Activity {
 
 	
 	public void test(){
+		sound.stop();
 		
-	
 		//test methode by ball while crate repo
 	}
 	

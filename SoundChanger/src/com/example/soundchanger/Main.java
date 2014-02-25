@@ -19,7 +19,9 @@ public class Main extends Activity {
 	Thread runner;
 	Handler hand = new Handler();
 	boolean Running = false;
-
+	
+	int a,b;
+	
 	private Runnable Task = new Runnable() {
 		public void run() {
 
